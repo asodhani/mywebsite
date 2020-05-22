@@ -20,7 +20,8 @@
 }
 
 .meme {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+    font-family: Impact; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 17.6px;
     text-transform: uppercase;
     text-shadow: 2.5px  2.5px black,
                 -2.5px -2.5px black,
