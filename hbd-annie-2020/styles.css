@@ -1,8 +1,14 @@
-#header {
-    background: url("https://miro.medium.com/max/2738/1*d8O7TfTHwPeftRwl28ey4g.jpeg") center center / cover no-repeat;
+.fireworks {
+    background: url(imgs/fireworks-1024x683.jpg);
+    background-position: center 310%;
+    height: 100vh;
 }
 
-body {
-    background-color: #000000;
-    height: 100%;
+.content {
+    padding-top: 80%;
+    color: white;
+    text-align: center;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
 }
